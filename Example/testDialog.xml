@@ -1,0 +1,5 @@
+<HBox align="''">
+    <!--Bmp src="'assets/window_action.png'"/-->
+    <Box w="100" h="100" align="''"/>
+    <Text text="'sdsdsd'"/>
+</HBox>

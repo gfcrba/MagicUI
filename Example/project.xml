@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Editor" package="com.example.editor" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Editor" />
+    <window width="800" height="600"/>
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+    <haxelib name="stablexui"/>
+	
+	<assets path="Assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/openfl.svg" />
+	
+</project>
