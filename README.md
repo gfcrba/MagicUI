@@ -1,5 +1,5 @@
 ##MagicUI
-Simple helper for StablexUI.
+Simple helper for [StablexUI](https://github.com/RealyUniqueName/StablexUI) OpenFL library.
 
 MagicUI create controls on StablexUI widget that allows you to resize and move it.
 It also generate tooltip with basic widget info: name, position and size.
