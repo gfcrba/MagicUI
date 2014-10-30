@@ -6,7 +6,7 @@ It also generate tooltip with basic widget info: name, position and size.
 
 ###Usage:
 
-MagicUI.makeItWhistle(content, generateBackground, recursive);
+`MagicUI.makeItWhistle(content, generateBackground, recursive);`
 
 **content** - StablexUI widget to process with helper.
 
