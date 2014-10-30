@@ -264,19 +264,6 @@ class PropertiesEditor extends InputText
     {
         visible = true;
     }
-
-    private function applyProperties():Void
-    {
-        if(text != '')
-        {
-            var lines:Array<String> = text.split('\n');
-
-            for(line in lines)
-            {
-
-            }
-        }
-    }
 }
 
 enum SizeControlType
