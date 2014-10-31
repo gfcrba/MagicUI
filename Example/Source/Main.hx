@@ -19,7 +19,7 @@ class Main extends Sprite {
 		super ();
 		UIBuilder.init();
         	UIBuilder.regSkins('skins.xml');
-		_dispalyContent = addChild( UIBuilder.buildFn('/Users/crba/Workspace/haxe/Editor/testDialog.xml')());
+		_dispalyContent = addChild( UIBuilder.buildFn('testDialog.xml')());
 		MagicUI.makeItWhistle(cast(_dispalyContent,Widget),true);
 	}
 	
